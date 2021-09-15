@@ -1,0 +1,19 @@
+.listing__features {
+  display: flex;
+  flex-direction: row;
+  margin-left: 10rem;
+}
+
+.column {
+  flex: 50%;
+}
+
+.listing__carousel {
+  width: 50%;
+  margin: 5rem;
+  margin-left: 20rem;
+}
+
+.listing__description {
+  margin-left: 10rem;
+}

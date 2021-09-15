@@ -1,0 +1,155 @@
+.listings__searchInput {
+  margin: 2rem;
+  margin-left: 10rem;
+}
+
+.listing{
+  padding-bottom: 10rem;
+  font-weight: 600;
+}
+
+
+.listing__header {
+  background-color: transparent;
+
+}
+
+.listing__select {
+  display: flex;
+  justify-content: space-around;
+  
+}
+
+.listing__select > select {
+  width: 11rem;
+  height: 2.5rem;
+  border-color: rgb(224, 219, 219);
+  border-width: 0.09rem;
+  border-radius: 3%;
+
+}
+
+.listing__address {
+  display: flex;
+  justify-content: space-around; 
+  margin-top: 30px; 
+  margin-left: 10px;
+ 
+}
+
+#listing__street {
+  width: 350px ;
+}
+
+.listing__zipCityDiv{
+  display: flex;
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+}
+
+#listing__zip {
+  width: 160px; 
+  margin-right: 5px;
+}
+
+#listing__city {
+  width: 185px;
+}
+
+.listing__rent{
+  display: flex;
+  margin-top: 30px;
+  
+  
+  
+}
+
+.listing__rent > p{
+  margin-left: 8.2rem;
+}
+
+#rent_field{
+  margin-left: 9.5rem;
+}
+
+.listing__checkbox{
+  display: flex;
+  margin-top: 30px;
+  margin-left: 8.3rem;
+  padding-bottom: 1rem;
+  
+}
+
+.listing__checkbox1{
+
+  margin-left: 4rem;
+
+}
+
+.listing__checkbox1 > label {
+  margin-left: 6rem;
+  margin-right: 6px;
+
+}
+
+.listing__moveIn{
+  display: flex;
+  margin-top: 30px;
+}
+
+.listing__moveIn > p{
+  margin-left: 8.1rem;
+  margin-right: 12rem;
+  
+}
+
+.listing__description{
+  display: flex;
+  margin-top: 30px;
+  
+}
+
+.listing__description > p{
+  margin-right: 15rem;
+  margin-left: -1.8rem;
+  
+}
+
+.listing__title{
+  display: flex;
+  margin-top: 30px;
+}
+
+.listing__title > p{
+  margin-right: 5rem;
+  margin-left: 7.8rem;
+}
+
+.listing__imageCover{
+  display: flex;
+  margin-top: 30px;
+}
+
+.listing__imageCover > p{
+  margin-right: 5rem;
+  margin-left: 7.8rem;
+}
+
+.listing__images{
+  display: flex;
+  margin-top: 30px;
+}
+
+.listing__images > p{
+  margin-right: 12rem;
+  margin-left: 7.8rem;
+}
+
+
+
+
+
+
+
+

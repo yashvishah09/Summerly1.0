@@ -1,0 +1,35 @@
+.dashboard {
+  background-image: linear-gradient(315deg, #2f4353 0%, #d2ccc4 74%);
+}
+
+.dashboard__image {
+  width: 7rem;
+  height: 7rem;
+  border-radius: 100%;
+  margin-left: 5rem;
+}
+
+.dashboard__card {
+  background-color: transparent !important;
+  width: 33% !important;
+}
+
+.dashboard__cardHeader {
+  background-color: transparent;
+  height: max-content;
+}
+
+.dashboard__userInfo {
+  padding-top: 3rem;
+  padding-left: 33rem;
+}
+
+.arrow_up {
+  width: 0;
+  height: 0;
+  margin-left: 40.5rem;
+  border-left: 40px solid transparent;
+  border-right: 40px solid transparent;
+  border-top: 40px solid transparent;
+  border-bottom: 40px solid white;
+}

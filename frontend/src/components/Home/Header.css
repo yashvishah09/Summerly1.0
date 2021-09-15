@@ -1,0 +1,29 @@
+.header {
+  background-color: rgb(15, 119, 119);
+  height: 5rem;
+}
+
+.header__list {
+  padding: 1rem;
+}
+
+.header__list > a {
+  color: antiquewhite;
+  font-family: 'Merienda', cursive;
+}
+
+.header__list > a:hover {
+  color: black;
+  cursor: pointer;
+}
+
+.header_list_home > a {
+  color: rgb(169, 230, 230);
+  font-family: 'Kalam', cursive;
+  font-size: 2rem;
+}
+
+.header_list_home > a:hover {
+  color: black;
+  cursor: pointer;
+}

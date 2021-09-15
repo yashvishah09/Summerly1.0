@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  font-family: 'Inria Sans', sans-serif;
+  
+
+  
+}
+
+body {
+  font-family: sans-serif;
+  background-color: rgba(163, 159, 159, 0);
+}
+
+* > a {
+  text-decoration: none;
+  color: black;
+}

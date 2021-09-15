@@ -1,0 +1,26 @@
+.home {
+  background-image: url(./home2.jpg);
+
+  height: 87.7vh;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  opacity: 0.5;
+}
+
+.home > h1 {
+  padding-top: 10rem;
+  padding-left: 20rem;
+
+  color: rgb(106, 139, 84);
+
+  font-weight: 100 ;
+  font-size: 100px ;
+}
+
+.home > h1 > span {
+  font-family: 'Special Elite', cursive !important;
+}
